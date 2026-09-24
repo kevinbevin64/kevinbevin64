@@ -4,7 +4,7 @@ I’m working on Tension Session, the most intuitive app for tracking strength t
   <tr>
     <td><img src="Images/Workout%20List.png" width="100%"></td>
     <td><img src="Images/Exercise%20Adder.png" width="100%"></td>
-    <td><img src="Images/Custom%20Exercise%20Adder.png" width="100%"></td>
+    <td><img src="https://raw.githubusercontent.com/kevinbevin64/kevinbevin64/refs/heads/main/images/Custom%20Exercise%20Adder.png" width="100%"></td>
   </tr>
 </table>
 
