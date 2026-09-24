@@ -2,9 +2,9 @@ I’m working on Tension Session, the most intuitive app for tracking strength t
 
 <table>
   <tr>
-    <td><img src="Images/Workout%20List.png" width="100%"></td>
-    <td><img src="Images/Exercise%20Adder.png" width="100%"></td>
-    <td><img src="https://raw.githubusercontent.com/kevinbevin64/kevinbevin64/refs/heads/main/images/Custom%20Exercise%20Adder.png" width="100%"></td>
+    <td><img src=“images/Workout%20List.png" width="100%"></td>
+    <td><img src=“images/Exercise%20Adder.png" width="100%"></td>
+    <td><img src=“images/Custom%20Exercise%20Adder.png" width="100%"></td>
   </tr>
 </table>
 
@@ -12,7 +12,7 @@ I’m working on Tension Session, the most intuitive app for tracking strength t
 
 <table width="100%">
   <tr>
-    <td><img src="Images/Sync%20Demo.png" width="100%"></td>
+    <td><img src=“images/Sync%20Demo.png" width="100%"></td>
   </tr>
 </table>
 
@@ -20,9 +20,9 @@ I’m working on Tension Session, the most intuitive app for tracking strength t
 
 <table>
   <tr>
-    <td><img src="Images/Set%20Completer.png" width="100%"></td>
-    <td><img src="Images/Time%20Keeper%20Teacher.png" width="100%"></td>
-    <td><img src="Images/Welcome%20Screen.png" width="100%"></td>
+    <td><img src=“images/Set%20Completer.png" width="100%"></td>
+    <td><img src=“images/Time%20Keeper%20Teacher.png" width="100%"></td>
+    <td><img src=“images/Welcome%20Screen.png" width="100%"></td>
   </tr>
 </table>
 
