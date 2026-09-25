@@ -1,4 +1,4 @@
-I’m working on Tension Session, the most intuitive app for tracking strength training workouts! Take a look at some screenshots:
+## I’m working on Tension Session, the most intuitive app for tracking strength training workouts! Take a look at some screenshots:
 
 <table>
   <tr>
